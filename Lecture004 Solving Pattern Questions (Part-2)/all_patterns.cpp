@@ -50,7 +50,7 @@ int main()
     cout << endl;
     cout << "13. Right Angle Reverse Character Triangle Pattern." << endl;
     cout << endl;
-    cout << "14. Number Pyramid Pattern." << endl;
+    cout << "14. Number Pyamid Pattern." << endl;
     cout << endl;
     cout << "15. Dabangg Pattern." << endl;
     cout << endl;
